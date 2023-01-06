@@ -81,6 +81,38 @@
             endingLineNumber = "12"
             landmarkName = "getCurrentWeather(latitude:longitude:)"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E984F5D-8D72-4098-8DD9-DE27FC5A1A3C - ddaf767ba4dadf71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WeatherApp.ResponseBody"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cansu.alaeddinoglu/Documents/personal-projects/WeatherApp/WeatherApp/Managers/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "8E984F5D-8D72-4098-8DD9-DE27FC5A1A3C - 6d25b9282f506ed8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WeatherApp.ResponseBody"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cansu.alaeddinoglu/Documents/personal-projects/WeatherApp/WeatherApp/Managers/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "243">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

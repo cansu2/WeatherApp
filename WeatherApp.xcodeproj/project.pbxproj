@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B515DC622967E5430093D938 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = B515DC612967E5430093D938 /* .gitignore */; };
+		B515DC642967E5620093D938 /* .env in Resources */ = {isa = PBXBuildFile; fileRef = B515DC632967E5620093D938 /* .env */; };
 		B5BEB27E29674CCF00A220BA /* WeatherAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BEB27D29674CCF00A220BA /* WeatherAppApp.swift */; };
 		B5BEB28029674CCF00A220BA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BEB27F29674CCF00A220BA /* ContentView.swift */; };
 		B5BEB28229674CD100A220BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5BEB28129674CD100A220BA /* Assets.xcassets */; };
@@ -43,6 +45,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B515DC612967E5430093D938 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		B515DC632967E5620093D938 /* .env */ = {isa = PBXFileReference; lastKnownFileType = text; path = .env; sourceTree = "<group>"; };
 		B5BEB27A29674CCF00A220BA /* WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5BEB27D29674CCF00A220BA /* WeatherAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAppApp.swift; sourceTree = "<group>"; };
 		B5BEB27F29674CCF00A220BA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -93,6 +97,8 @@
 		B5BEB27129674CCF00A220BA = {
 			isa = PBXGroup;
 			children = (
+				B515DC632967E5620093D938 /* .env */,
+				B515DC612967E5430093D938 /* .gitignore */,
 				B5BEB27C29674CCF00A220BA /* WeatherApp */,
 				B5BEB28D29674CD200A220BA /* WeatherAppTests */,
 				B5BEB29729674CD200A220BA /* WeatherAppUITests */,
@@ -284,6 +290,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B515DC642967E5620093D938 /* .env in Resources */,
+				B515DC622967E5430093D938 /* .gitignore in Resources */,
 				B5BEB28529674CD100A220BA /* Preview Assets.xcassets in Resources */,
 				B5BEB2B729677BD600A220BA /* weatherData.json in Resources */,
 				B5BEB28229674CD100A220BA /* Assets.xcassets in Resources */,
