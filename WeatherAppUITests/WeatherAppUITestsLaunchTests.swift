@@ -2,7 +2,7 @@
 //  WeatherAppUITestsLaunchTests.swift
 //  WeatherAppUITests
 //
-//  Created by Cansu Alaeddinoglu on 1/5/23.
+//  Created by Cansu Alaeddinoglu on 1/9/23.
 //
 
 import XCTest
